@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Viendo /info","Gracias a UrielRaja por crearme <3"];
+const statusMessages = ["Viendo /info","El mejor hosting, Precios increibles!!!"];
 
 
 let currentIndex = 0;
