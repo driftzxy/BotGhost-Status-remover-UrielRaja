@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Viendo /info","El mejor hosting, Precios increibles!!!"];
+const statusMessages = ["Viendo /info","Ip: PROXIMAMENTE : BRUNEITHOR NO CHAMBEA"];
 
 
 let currentIndex = 0;
